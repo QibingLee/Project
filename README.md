@@ -16,12 +16,13 @@ Project 5: [GoghMaze](https://github.com/QibingLee/GoghMaze)
 
 # Demo
 
-<div align=center><img width="80%" height="80%" src="figure/1.png"/></div>
 <div align=center><img width="80%" height="80%" src="figure/2.png"/></div>
-<div align=center><img width="40%" height="40%" src="figure/1111.png"/><img width="40%" height="40%" src="figure/2222.png"/></div>
-<div align=center><img width="80%" height="80%" src="figure/3.png"/></div>
+<div align=center><img width="80%" height="80%" src="figure/1.png"/></div>
+<div align=center><img width="80%" height="80%" src="figure/33.png"/></div>
+<div align=center><img width="40%" height="40%" src="figure/1 1.png"/><img width="40%" height="40%" src="figure/1 3.png"/></div>
+<div align=center><img width="80%" height="80%" src="figure/111.png"/></div>
 <div align=center><img width="80%" height="80%" src="figure/11.png"/></div>
 <div align=center><img width="80%" height="80%" src="figure/22.png"/></div>
-<div align=center><img width="80%" height="80%" src="figure/111.png"/></div>
+<div align=center><img width="80%" height="80%" src="figure/3.png"/></div>
 <div align=center><img width="80%" height="80%" src="figure/444.png"/></div>
 <div align=center><img width="40%" height="40%" src="figure/12.png"/><img width="40%" height="40%" src="figure/13.png"/></div>
