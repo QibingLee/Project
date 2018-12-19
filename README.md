@@ -5,7 +5,11 @@ This repository is meant to reorganize five projects that I built from 2012 to 2
 # Contents
 
 Project 1: [Datartisan](https://github.com/QibingLee/Datartisan)
+
 Project 2: [WeiboVis](https://github.com/QibingLee/WeiboVis)
+
 Project 3: [VideoRendering](https://github.com/QibingLee/VideoEffectRendering)
+
 Project 4: [LifeEnergy](https://github.com/QibingLee/LifeEnergy)
+
 Project 5: [GoghMaze](https://github.com/QibingLee/GoghMaze)
